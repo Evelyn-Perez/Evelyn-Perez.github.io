@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Curriculum Vitae</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="CVs.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap" rel="stylesheet"> 
+    </head>
+    <body>
+        
+        <h1>Evelyn Lorena Pérez Figueroa</h1>
+        <br>
+        <section>
+            <h2>Datos personales</h2>
+            <ul>
+                <li>Edad: 21 Años</li>
+                <li>Valparaíso, Chile</li>
+                <li>pf.evelyn.l@gmail.com</li>
+            </ul>
+        </section>
+        <br>
+        <h2>Objetivos</h2>
+        <li id="contain">Interés en el área de programacion, gusto de la lectura, música y actividades deportivas. Realicé
+            participaciones en el área artística principalmente ballet durante 10 años. Mi meta es tener una posición de
+            trabajo en la cual pueda compatibilizar trabajo y estudio, en una posición donde pueda demostrar mis
+            habilidades y contribuir al progreso de la empresa. Soy una persona responsable, con gran iniciativa y
+            aptitudes, además de gran capacidad de organización, habilidad para relacionarme en grupos de trabajo y buen trato
+            con la gente.</li>
+            <br>
+        
+        
+        <section>
+            <h2>Experiencia Laboral</h2>
+            <ul>
+                <h3>Asistente de Ventas</h3>
+                <li> Inmobiliaria Beltec, Villa Alemana; Ago 2019 - Actualidad
+                    </li>
+                    <h3>Dependiente</h3>
+                <li>Cafeteria Quinta Vergara, Valparaíso; May 2013 - Dic 2019</li>
+                
+                <h3>Captadora de Socios</h3>
+                <li>Greenpeace Chile, Valparaíso; Ago 2017 - Feb 2018</li>
+
+                <h3>Profesora de Ballet</h3>
+                <li>Sindicato N°1 de Estibadores, Valparaíso; Ago 2016 - Dic 2017</li>
+            </ul>
+        </section>
+        <br>
+        <section>
+            <h1>Estudios y Certificaciones</h1>
+            <ul>
+                <h3>Enseñanza Básica</h3>
+                <li>Escuela Republica del Uruguay, Valparaíso; Mar 2005 - Nov 2012</li>
+
+                <h3>Licencia Enseñanza Media</h3>
+                <li>Liceo Eduardeo de la Barra, Valparaíso; Mar 2013 - Nov 2016</li>
+
+                <h3>Licenciatura en Ciencias</h3>
+                <li>Universidad de Valparaíso, Valparaíso; Abr 2018 - Incompleto</li>
+            </ul>
+        </section>
+        <br>
+        <section>
+            <h1>Destrezas</h1>
+            <ul>
+                <li>Microsoft Word - Nivel Avanzado</li>
+                <li>Microsoft Power Point - Nivel Avanzado</li>
+                <li>Microsoft Excel - Nivel Avanzado</li>
+                <li>Habla Hispana - Lengua Nativa</li>
+            </ul>
+        </section>
+    </body>
+</html>
